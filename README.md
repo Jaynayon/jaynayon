@@ -16,7 +16,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Springboot, React, React Native, Nodejs, MongoDB**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- ✍🏻 I'm currently studying **DigitalOcean and Heroku**
+
+- 💬 Ask me about **react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **jay.nayonjr@cit.edu**
 
@@ -66,6 +68,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,cs,discord,figma,spring,eclipse,anaconda,androidstudio,express,npm,github,html,sublime,java,js,md,materialui,express,mongodb,mysql,nodejs,postman,py,react,ts,vscode, wordpress,visualstudio,kali&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,cs,discord,figma,spring,eclipse,anaconda,androidstudio,express,npm,github,html,sublime,java,js,md,materialui,express,mongodb,mysql,nodejs,postman,py,react,ts,vscode, wordpress,windows,visualstudio,kali,nginx,opencv,ubuntu,,&perline=14" />
   </a>
 </p>
