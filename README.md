@@ -3,7 +3,7 @@
 
 # Hey, I'm Jay 👋
 
-I am an aspiring **Fullstack Developer** who enjoys running code. I like testing the waters and exploring new things. It always fascinates me how new things create and solve problems. How there are better solutions that I've yet to uncover. As I am writing this, I am currently a **senior** college student taking up Information Technology. It warms my heart knowing something I made came to action and was useful.
+I am an aspiring **Developer** who enjoys running code. I like testing the waters and exploring new things. It always fascinates me how new things create and solve problems. How there are better solutions that I've yet to uncover. As I am writing this, I am currently a **senior** college student taking up Information Technology. It warms my heart knowing something I made came to action and was useful.
 
 I am the **Lead Developer** of our capstone project, *PrinciPal*, which aims to streamline MOOE reports, simplify data entry, provide data visualization and real-time budget tracking, and automate document generation.
 
@@ -42,11 +42,11 @@ I am the **Lead Developer** of our capstone project, *PrinciPal*, which aims to 
 </p>  -->
 <!--- stats (end) -->
 
-## 👨🏻‍💻 Technologies That I Know
+<!-- ## 👨🏻‍💻 Technologies That I Know -->
 
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,cs,discord,figma,spring,eclipse,anaconda,androidstudio,express,npm,github,html,sublime,java,js,md,materialui,express,mongodb,mysql,nodejs,postman,py,react,ts,vscode, wordpress,windows,visualstudio,kali,nginx,opencv,ubuntu,,&perline=14" />
   </a>
-</p>
+</p> -->
