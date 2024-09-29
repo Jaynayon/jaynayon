@@ -14,15 +14,20 @@ I am the **Lead Developer** of our capstone project, *PrinciPal*, which aims to 
 <div class="badges-intro">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 </div>
 
 ## 📈 My GitHub stats
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaynayon&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="jaynayon's Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaynayon&theme=buefy&hide_border=true"/>
+  </p>
+</div>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jaynayon&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="jaynayon's Stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaynayon&theme=buefy&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynayon&layout=compact&theme=buefy&hide_border=true"/>|  
-| ------------- | ------------- | ------------- |
+<!-- | <img src="https://github-readme-stats.vercel.app/api?username=jaynayon&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="jaynayon's Stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaynayon&theme=buefy&hide_border=true"/> |   
+| ------------- | ------------- | -->
 
 <div align="center"> 
 <!-- <img hight="500" width="896" alt="GIF" align="center" src="https://github.com/Jaynayon/jaynayon/blob/main/assets/asta.gif"> -->
@@ -31,22 +36,17 @@ I am the **Lead Developer** of our capstone project, *PrinciPal*, which aims to 
 <!--h1 without bottom border-->
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+<!--- <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jaynayon&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-</p>  
+</p>  -->
 <!--- stats (end) -->
 
+## 👨🏻‍💻 Technologies That I Know
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
