@@ -21,13 +21,10 @@ I am the **Lead Developer** of our capstone project, *PrinciPal*, which aims to 
 ## 📈 My GitHub stats
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jaynayon&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="jaynayon's Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaynayon&theme=buefy&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jaynayon&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="Jay's Stats" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaynayon&theme=vue&hide_border=true" alt="Jay's Stats" height="165"/>
   </p>
 </div>
-
-<!-- | <img src="https://github-readme-stats.vercel.app/api?username=jaynayon&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="jaynayon's Stats"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaynayon&theme=buefy&hide_border=true"/> |   
-| ------------- | ------------- | -->
 
 <div align="center"> 
 <!-- <img hight="500" width="896" alt="GIF" align="center" src="https://github.com/Jaynayon/jaynayon/blob/main/assets/asta.gif"> -->
